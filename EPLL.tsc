@@ -4,7 +4,7 @@
         <[string8][sname][LODZ LUBLINEK]>
         <[string8][lname][LODZ LUBLINEK]>
         <[string8][icao][EPLL]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][19.389175 51.719904]>
         <[float64][height][184.7]>

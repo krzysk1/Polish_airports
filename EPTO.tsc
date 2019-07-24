@@ -4,7 +4,7 @@
         <[string8][sname][TORUN]>
         <[string8][lname][TORUN]>
         <[string8][icao][EPTO]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][18.546306 53.029146]>
         <[float64][height][50.0]>

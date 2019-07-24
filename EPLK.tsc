@@ -4,7 +4,7 @@
         <[string8][sname][LASK]>
         <[string8][lname][LASK]>
         <[string8][icao][EPLK]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][19.178782 51.550193]>
         <[float64][height][192.9]>

@@ -4,7 +4,7 @@
         <[string8][sname][LECH WALESA]>
         <[string8][lname][LECH WALESA]>
         <[string8][icao][EPGD]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][18.471884 54.376167]>
         <[float64][height][149.0]>

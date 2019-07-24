@@ -4,7 +4,7 @@
         <[string8][sname][TOMASZOW MAZOWECKI]>
         <[string8][lname][TOMASZOW MAZOWECKI]>
         <[string8][icao][EPTM]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][20.097289 51.584455]>
         <[float64][height][183.8]>

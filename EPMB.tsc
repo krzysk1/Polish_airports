@@ -4,7 +4,7 @@
         <[string8][sname][MALBORK]>
         <[string8][lname][MALBORK]>
         <[string8][icao][EPMB]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][19.174845 54.031561]>
         <[float64][height][4.9]>

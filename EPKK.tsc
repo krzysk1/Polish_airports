@@ -4,7 +4,7 @@
         <[string8][sname][BALICE]>
         <[string8][lname][BALICE]>
         <[string8][icao][EPKK]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][19.785503 50.077821]>
         <[float64][height][241.1]>

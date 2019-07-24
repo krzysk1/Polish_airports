@@ -4,7 +4,7 @@
         <[string8][sname][MODLIN]>
         <[string8][lname][MODLIN]>
         <[string8][icao][EPMO]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][20.651778 52.451110]>
         <[float64][height][103.9]>

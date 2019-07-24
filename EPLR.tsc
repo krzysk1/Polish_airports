@@ -4,7 +4,7 @@
         <[string8][sname][Radawiec]>
         <[string8][lname][Radawiec]>
         <[string8][icao][EPLR]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][22.395582 51.220989]>
         <[float64][height][239.9]>

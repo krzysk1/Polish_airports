@@ -4,7 +4,7 @@
         <[string8][sname][DEBLIN]>
         <[string8][lname][DEBLIN]>
         <[string8][icao][EPDE]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.891075 51.551180]>
         <[float64][height][118.3]>

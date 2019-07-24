@@ -4,7 +4,7 @@
         <[string8][sname][Piastow]>
         <[string8][lname][Piastow]>
         <[string8][icao][EPRP]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.108524 51.478873]>
         <[float64][height][147.5]>

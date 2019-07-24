@@ -4,7 +4,7 @@
         <[string8][sname][POWIDZ]>
         <[string8][lname][POWIDZ]>
         <[string8][icao][EPPW]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][17.852093 52.379113]>
         <[float64][height][115.8]>

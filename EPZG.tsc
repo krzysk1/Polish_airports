@@ -4,7 +4,7 @@
         <[string8][sname][ZIELONA GORA BABIMOST]>
         <[string8][lname][ZIELONA GORA BABIMOST]>
         <[string8][icao][EPZG]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][15.798400 52.138633]>
         <[float64][height][58.8]>

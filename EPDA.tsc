@@ -4,7 +4,7 @@
         <[string8][sname][DARLOWO]>
         <[string8][lname][DARLOWO]>
         <[string8][icao][EPDA]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][16.353047 54.404827]>
         <[float64][height][2.7]>

@@ -4,7 +4,7 @@
         <[string8][sname][SZYMANY]>
         <[string8][lname][SZYMANY]>
         <[string8][icao][EPSY]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][20.936497 53.479731]>
         <[float64][height][141.1]>

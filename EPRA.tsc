@@ -4,7 +4,7 @@
         <[string8][sname][RADOM SADKOW]>
         <[string8][lname][RADOM SADKOW]>
         <[string8][icao][EPRA]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.211661 51.388880]>
         <[float64][height][189.9]>

@@ -4,7 +4,7 @@
         <[string8][sname][MIELEC]>
         <[string8][lname][MIELEC]>
         <[string8][icao][EPML]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.453046 50.323765]>
         <[float64][height][166.7]>

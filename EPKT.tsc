@@ -4,7 +4,7 @@
         <[string8][sname][PYRZOWICE]>
         <[string8][lname][PYRZOWICE]>
         <[string8][icao][EPKT]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][19.074356 50.474263]>
         <[float64][height][303.3]>

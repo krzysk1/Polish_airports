@@ -4,7 +4,7 @@
         <[string8][sname][OKSYWIE]>
         <[string8][lname][OKSYWIE]>
         <[string8][icao][EPOK]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][18.517192 54.579695]>
         <[float64][height][43.9]>

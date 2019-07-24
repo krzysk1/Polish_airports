@@ -4,7 +4,7 @@
         <[string8][sname][WICKO MORSKIE]>
         <[string8][lname][WICKO MORSKIE]>
         <[string8][icao][EPWI]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][16.621376 54.553925]>
         <[float64][height][1.8]>

@@ -4,7 +4,7 @@
         <[string8][sname][REDZIKOWO]>
         <[string8][lname][REDZIKOWO]>
         <[string8][icao][EPSK]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][17.107500 54.478889]>
         <[float64][height][66.1]>

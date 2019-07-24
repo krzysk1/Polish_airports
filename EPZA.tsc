@@ -4,7 +4,7 @@
         <[string8][sname][Zamosc-Mokre]>
         <[string8][lname][Zamosc-Mokre]>
         <[string8][icao][EPZA]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][23.204877 50.700978]>
         <[float64][height][228.9]>

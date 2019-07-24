@@ -4,7 +4,7 @@
         <[string8][sname][Watorowo]>
         <[string8][lname][Watorowo]>
         <[string8][icao][EPWT]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][18.413466 53.298511]>
         <[float64][height][90.8]>

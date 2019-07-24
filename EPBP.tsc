@@ -4,7 +4,7 @@
         <[string8][sname][Biala Airport]>
         <[string8][lname][Biala Airport]>
         <[string8][icao][EPBP]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][23.149118 52.006968]>
         <[float64][height][141.7]>

@@ -4,7 +4,7 @@
         <[string8][sname][Zlobek Maly]>
         <[string8][lname][Zlobek Maly]>
         <[string8][icao][EPSA]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][23.542678 51.454704]>
         <[float64][height][157.0]>

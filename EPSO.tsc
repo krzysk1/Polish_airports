@@ -4,7 +4,7 @@
         <[string8][sname][SOCHACZEW]>
         <[string8][lname][SOCHACZEW]>
         <[string8][icao][EPSO]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][20.291067 52.198257]>
         <[float64][height][78.9]>

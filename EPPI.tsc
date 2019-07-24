@@ -4,7 +4,7 @@
         <[string8][sname][PILA]>
         <[string8][lname][PILA]>
         <[string8][icao][EPPI]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][16.710646 53.169418]>
         <[float64][height][78.9]>

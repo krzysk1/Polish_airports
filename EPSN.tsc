@@ -4,7 +4,7 @@
         <[string8][sname][SWIDWIN]>
         <[string8][lname][SWIDWIN]>
         <[string8][icao][EPSN]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][15.826249 53.790638]>
         <[float64][height][117.3]>

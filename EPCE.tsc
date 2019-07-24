@@ -4,7 +4,7 @@
         <[string8][sname][CEWICE]>
         <[string8][lname][CEWICE]>
         <[string8][icao][EPCE]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][17.763287 54.416036]>
         <[float64][height][150.9]>

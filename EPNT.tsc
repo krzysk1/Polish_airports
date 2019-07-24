@@ -4,7 +4,7 @@
         <[string8][sname][Nowy Targ]>
         <[string8][lname][Nowy Targ]>
         <[string8][icao][EPNT]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][20.052192 49.461720]>
         <[float64][height][627.9]>

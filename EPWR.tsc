@@ -4,7 +4,7 @@
         <[string8][sname][STRACHOWICE]>
         <[string8][lname][STRACHOWICE]>
         <[string8][icao][EPWR]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][16.881892 51.103882]>
         <[float64][height][123.1]>

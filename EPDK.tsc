@@ -4,7 +4,7 @@
         <[string8][sname][Depultycze Krolewskie]>
         <[string8][lname][Depultycze Krolewskie]>
         <[string8][icao][EPDK]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][23.437183 51.083311]>
         <[float64][height][211.5]>

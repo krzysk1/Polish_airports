@@ -4,7 +4,7 @@
         <[string8][sname][Lublin]>
         <[string8][lname][Lublin]>
         <[string8][icao][EPLB]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][22.713612 51.240278]>
         <[float64][height][192.9]>

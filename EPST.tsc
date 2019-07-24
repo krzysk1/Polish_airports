@@ -4,7 +4,7 @@
         <[string8][sname][Turbia]>
         <[string8][lname][Turbia]>
         <[string8][icao][EPST]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.998975 50.627537]>
         <[float64][height][150.0]>

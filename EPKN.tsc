@@ -4,7 +4,7 @@
         <[string8][sname][KAMIEN SLASKI]>
         <[string8][lname][KAMIEN SLASKI]>
         <[string8][icao][EPKN]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][18.084941 50.529196]>
         <[float64][height][208.2]>

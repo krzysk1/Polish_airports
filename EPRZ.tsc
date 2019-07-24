@@ -4,7 +4,7 @@
         <[string8][sname][JASIONKA]>
         <[string8][lname][JASIONKA]>
         <[string8][icao][EPRZ]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][22.023908 50.109893]>
         <[float64][height][205.7]>

@@ -4,7 +4,7 @@
         <[string8][sname][MINSK MAZOWIECKI]>
         <[string8][lname][MINSK MAZOWIECKI]>
         <[string8][icao][EPMM]>
-        <[string8][country][]>
+        <[string8][country][pl]>
         <[string8][coordinate_system][lonlat]>
         <[vector2_float64][position][21.655968 52.195432]>
         <[float64][height][184.1]>
