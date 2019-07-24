@@ -1,0 +1,60 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][LODZ LUBLINEK]>
+        <[string8][lname][LODZ LUBLINEK]>
+        <[string8][icao][EPLL]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][19.389175 51.719904]>
+        <[float64][height][184.7]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][19.403903 51.727283]>
+        <[float64][tower_height][209.7]>
+        <[bool][autoheight][true]>
+		<[tmsimulator_runwaytmslist][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][07L]>
+			<[tmvector2d][threshold1][19.372083 51.716212]>
+			<[tmvector2d][endpoint1][19.372083 51.716212]>
+			<[string8]   [appltsys1][sals]>
+			<[string8]   [papi1][left]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][25R]>
+			<[tmvector2d][threshold2][19.406268 51.723596]>
+			<[tmvector2d][endpoint2][19.406268 51.723596]>
+			<[string8]   [appltsys2][sals]>
+			<[string8]   [papi2][left]>
+			<[string8]   [reil2][none]>
+			<[float64][width][45.11]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][07R]>
+			<[tmvector2d][threshold1][19.396688 51.719222]>
+			<[tmvector2d][endpoint1][19.396688 51.719222]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][left]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][25L]>
+			<[tmvector2d][threshold2][19.406290 51.721295]>
+			<[tmvector2d][endpoint2][19.406290 51.721295]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][left]>
+			<[string8]   [reil2][none]>
+			<[float64][width][174.96]>
+		  >
+		>
+		<[tmsimulator_parking_positiontmslist][parking_positions][]
+		  <[tmsimulator_parking_position][element][0]
+			<[tmvector2d][position][19.400133 51.724709]>
+			<[float64][heading][166.37]>
+			<[string8][name][APRON]>
+		  >
+		  <[tmsimulator_parking_position][element][1]
+			<[tmvector2d][position][19.403944 51.726835]>
+			<[float64][heading][250.23]>
+			<[string8][name][Terminal]>
+		  >
+		>
+    >
+>

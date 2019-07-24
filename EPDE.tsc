@@ -1,0 +1,75 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][DEBLIN]>
+        <[string8][lname][DEBLIN]>
+        <[string8][icao][EPDE]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][21.891075 51.551180]>
+        <[float64][height][118.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][21.874416 51.551673]>
+        <[float64][tower_height][118.3]>
+        <[bool][autoheight][true]>
+		<[tmsimulator_runwaytmslist][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][12]>
+			<[tmvector2d][threshold1][21.875502 51.556880]>
+			<[tmvector2d][endpoint1][21.875483 51.556886]>
+			<[string8]   [appltsys1][sals]>
+			<[string8]   [papi1][left]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][30]>
+			<[tmvector2d][threshold2][21.906648 51.545481]>
+			<[tmvector2d][endpoint2][21.906666 51.545474]>
+			<[string8]   [appltsys2][calvert]>
+			<[string8]   [papi2][left]>
+			<[string8]   [reil2][none]>
+			<[float64][width][60.05]>
+		  >
+		>
+		<[tmsimulator_parking_positiontmslist][parking_positions][]
+		  <[tmsimulator_parking_position][element][0]
+			<[tmvector2d][position][21.867754 51.555858]>
+			<[float64][heading][260.38]>
+			<[string8][name][Aeroclub]>
+		  >
+		  <[tmsimulator_parking_position][element][1]
+			<[tmvector2d][position][21.900213 51.544353]>
+			<[float64][heading][210.12]>
+			<[string8][name][ApronA]>
+		  >
+		  <[tmsimulator_parking_position][element][2]
+			<[tmvector2d][position][21.904045 51.543772]>
+			<[float64][heading][299.75]>
+			<[string8][name][ApronB]>
+		  >
+		  <[tmsimulator_parking_position][element][3]
+			<[tmvector2d][position][21.874175 51.553913]>
+			<[float64][heading][351.76]>
+			<[string8][name][ApronC]>
+		  >
+		  <[tmsimulator_parking_position][element][4]
+			<[tmvector2d][position][21.872358 51.552941]>
+			<[float64][heading][352.50]>
+			<[string8][name][ApronD]>
+		  >
+		  <[tmsimulator_parking_position][element][5]
+			<[tmvector2d][position][21.877685 51.557707]>
+			<[float64][heading][120.36]>
+			<[string8][name][ApronF]>
+		  >
+		  <[tmsimulator_parking_position][element][6]
+			<[tmvector2d][position][21.901594 51.544484]>
+			<[float64][heading][118.81]>
+			<[string8][name][ApronG]>
+		  >
+		  <[tmsimulator_parking_position][element][7]
+			<[tmvector2d][position][21.874460 51.552273]>
+			<[float64][heading][83.66]>
+			<[string8][name][Tower]>
+		  >
+		>
+    >
+>
